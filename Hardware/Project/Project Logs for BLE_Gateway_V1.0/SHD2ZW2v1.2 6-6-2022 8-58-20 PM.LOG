@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=U_MCU Member=D2
+Removed Member From Class: ClassName=U_MCU Member=R12
+Removed Member From Class: ClassName=U_MCU Member=R17
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=U1-16
+Added Member To Class: ClassName=U_MCU Member=Component D1 CD4148WP
+Added Member To Class: ClassName=U_MCU Member=Component R8 1K/5%
+Added Member To Class: ClassName=U_MCU Member=Component R9 4.7K/5%
+Added Member To Class: ClassName=Peak voltage Member=Wire NetD3_2

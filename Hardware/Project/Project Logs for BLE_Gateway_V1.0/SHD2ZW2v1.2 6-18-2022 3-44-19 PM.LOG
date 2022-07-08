@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=R15 Old Footprint=R0603-C New Footprint=R0603-B
+Change Component Description : Designator=FB1 Old Description=2A 1 200mO 300O 100MHz 0805 Ferrite Beads ROHS New Description=2A 1 200mO 300O 100MHz 0805 Ferrite Beads ROHS
+Added Component: Designator=C?(C0805-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C-10u-10V-0805-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/products/catalog/pdf/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mouser.vn/ProductDetail/Murata/GRM21BR71A106KA73L/?qs=%2fha2pyFaduh%2fEdsyu96AxlYmpb%2fkUgcA5NhpACNM6PnXP0Re01zvkhFjHxs1cDT4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "SmartDevice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.murata.com/products/catalog/pdf/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20160715"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "http://www.mouser.vn/ProductDetail/Murata/GRM21BR71A106KA73L/?qs=%2fha2pyFaduh%2fEdsyu96AxlYmpb%2fkUgcA5NhpACNM6PnXP0Re01zvkhFjHxs1cDT4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "GRM21BR71A106KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C-10u-10V-0805-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/products/catalog/pdf/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mouser.vn/ProductDetail/Murata/GRM21BR71A106KA73L/?qs=%2fha2pyFaduh%2fEdsyu96AxlYmpb%2fkUgcA5NhpACNM6PnXP0Re01zvkhFjHxs1cDT4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "SmartDevice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.murata.com/products/catalog/pdf/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20160715"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "http://www.mouser.vn/ProductDetail/Murata/GRM21BR71A106KA73L/?qs=%2fha2pyFaduh%2fEdsyu96AxlYmpb%2fkUgcA5NhpACNM6PnXP0Re01zvkhFjHxs1cDT4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "GRM21BR71A106KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TO-263-3-A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=+5V Pin=IC?-3
+Added Pin To Net: NetName=+12V Pin=C?-2
+Added Pin To Net: NetName=+12V Pin=IC?-1
+Added Net: Name=+12V
+Added Member To Class: ClassName=U_Power Supply Member=Component C? 330nF
+Added Member To Class: ClassName=U_Power Supply Member=Component C? 100nF
+Added Member To Class: ClassName=U_Power Supply Member=Component IC? 78L05_TO252
+Added Member To Class: ClassName=Low voltage Member=Wire +12V

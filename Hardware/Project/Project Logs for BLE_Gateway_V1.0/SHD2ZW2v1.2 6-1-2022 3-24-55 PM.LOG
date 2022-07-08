@@ -1,0 +1,8 @@
+Added Component: Designator=IC1(SOT223-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=+3.3V Pin=IC1-2
+Added Pin To Net: NetName=+5V Pin=IC1-3
+Added Pin To Net: NetName=+3.3V Pin=IC1-4
+Added Member To Class: ClassName=Power Supply Member=Component IC1 LM1117

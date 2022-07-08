@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Power Supply Member=CN2
+Removed Member From Class: ClassName=Power Supply Member=J2
+Added Component: Designator=U3(TSSOP28)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC18_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=CLKOUT Pin=U3-3
+Added Pin To Net: NetName=INT Pin=U3-4
+Added Pin To Net: NetName=MISO Pin=U3-6
+Added Pin To Net: NetName=MOSI Pin=U3-7
+Added Pin To Net: NetName=SCK Pin=U3-8
+Added Pin To Net: NetName=C\S\ Pin=U3-9
+Added Pin To Net: NetName=R\E\S\E\T Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=TPIN- Pin=U3-12
+Added Pin To Net: NetName=TPIN+ Pin=U3-13
+Added Pin To Net: NetName=NetR20_1 Pin=U3-14
+Added Pin To Net: NetName=+3V3 Pin=U3-15
+Added Pin To Net: NetName=TPOUT- Pin=U3-16
+Added Pin To Net: NetName=TPOUT+ Pin=U3-17
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=+3V3 Pin=U3-19
+Added Pin To Net: NetName=+3V3 Pin=U3-20
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Pin To Net: NetName=GND Pin=U3-22
+Added Pin To Net: NetName=NetC20_1 Pin=U3-23
+Added Pin To Net: NetName=NetC19_1 Pin=U3-24
+Added Pin To Net: NetName=+3V3 Pin=U3-25
+Added Pin To Net: NetName=NetR17_1 Pin=U3-26
+Added Pin To Net: NetName=NetR16_1 Pin=U3-27
+Added Pin To Net: NetName=+3V3 Pin=U3-28
+Added Member To Class: ClassName=Ethernet Member=Component U3 ENC28J60

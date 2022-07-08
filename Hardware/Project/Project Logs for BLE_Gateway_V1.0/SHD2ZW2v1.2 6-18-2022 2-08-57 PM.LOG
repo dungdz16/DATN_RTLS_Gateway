@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R15 Old Footprint=R0603-C New Footprint=R0603-B
+Change Component Description : Designator=FB1 Old Description=2A 1 200mO 300O 100MHz 0805 Ferrite Beads ROHS New Description=2A 1 200mO 300O 100MHz 0805 Ferrite Beads ROHS
+Added Component: Designator=JP1(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Power Supply Member=Component JP1 JP2
+Added Member To Class: ClassName=U_Ethernet Member=Component U3 W5500
+Added Member To Class: ClassName=U_External Flash Member=Component U4 W25Q128

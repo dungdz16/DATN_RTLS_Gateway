@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=EN Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=GPIO0 Pin=S2-2
+Removed Member From Class: ClassName=MCU Member=S1
+Removed Member From Class: ClassName=MCU Member=S2
+Added Component: Designator=SW1(SW2 - 3x4x2.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW2 - 3x4x2.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GPIO0 Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Member To Class: ClassName=MCU Member=Component SW1 SW
+Added Member To Class: ClassName=MCU Member=Component SW2 SW

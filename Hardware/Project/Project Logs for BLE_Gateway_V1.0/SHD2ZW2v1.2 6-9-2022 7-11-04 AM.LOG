@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetR30_2 Pin=U3-12
+Change Component Description : Designator=FB1 Old Description=2A 1 200mO 300O 100MHz 0805 Ferrite Beads ROHS New Description=2A 1 200mO 300O 100MHz 0805 Ferrite Beads ROHS
+Added Pin To Net: NetName=NetR30_2 Pin=U3-10

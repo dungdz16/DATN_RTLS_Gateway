@@ -1,0 +1,476 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=CN2-10
+Removed Pin From Net: NetName=GND Pin=CN2-11
+Removed Pin From Net: NetName=+3V3 Pin=R20-2
+Removed Pin From Net: NetName=+3V3 Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=TPIN- Pin=U3-12
+Removed Pin From Net: NetName=TPIN+ Pin=U3-13
+Removed Pin From Net: NetName=+3V3 Pin=U3-15
+Removed Pin From Net: NetName=TPOUT- Pin=U3-16
+Removed Pin From Net: NetName=TPOUT+ Pin=U3-17
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=+3V3 Pin=U3-19
+Removed Pin From Net: NetName=+3V3 Pin=U3-20
+Removed Pin From Net: NetName=GND Pin=U3-22
+Removed Pin From Net: NetName=+3V3 Pin=U3-25
+Removed Member From Class: ClassName=Low voltage Member=GND
+Change Component Footprint: Designator=C20 Old Footprint=C0603-B New Footprint=CAP_3216
+Change Component Footprint: Designator=R18 Old Footprint=R0603-B New Footprint=R0603-C
+Change Component Footprint: Designator=R19 Old Footprint=R0603-B New Footprint=R0603-C
+Change Component Footprint: Designator=R21 Old Footprint=R0603-B New Footprint=R0603-C
+Change Component Footprint: Designator=U3 Old Footprint=SOIC-28 New Footprint=LQFP 48
+Change Component Comment : Designator=R21 Old Comment=10K/1% New Comment=1K/1%
+Change Component Comment : Designator=XT1 Old Comment=12Mhz New Comment=25Mhz
+Change Component Comment : Designator=C20 Old Comment=18pF New Comment=10uF/16V
+Change Component Comment : Designator=U3 Old Comment=ENC28J60 New Comment=W5500
+Change Component Designator: OldDesignator=C21 NewDesignator=C18
+Change Component Designator: OldDesignator=C22 NewDesignator=C19
+Change Component Designator: OldDesignator=R23 NewDesignator=R20
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change component parameters: Designator = "R21"; Footprint = "R0603-C"; UniqueID = "\NSDCDCWP\BPRVNDIE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BSH Partnumber"; Value = "R-1k-0603-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603FR-071KL/?qs=%2fha2pyFaduhXXNW8qwNUNqQ9kEEY7HXXvpzZHS3Y0h%2feQEDxZMSpaQ%3d%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Creator"; Value = "SmartDevice"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "20150818"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link sale"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603FR-071KL/?qs=%2fha2pyFaduhXXNW8qwNUNqQ9kEEY7HXXvpzZHS3Y0h%2feQEDxZMSpaQ%3d%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing (USD)"; Value = "0.002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K/1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "CAP_3216"; UniqueID = "\NSDCDCWP\QACNXGQK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0603-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C1591"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/1943.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP_3216)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "New part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.vn/datasheet/2/585/MLCC-1837944.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.vn/ProductDetail/Samsung-Electro-Mechanics/CL10A475MQ8NNNC/?qs=X6jEic%2FHinBqyUv6Rpt3UA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "NamNH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.mouser.vn/datasheet/2/585/MLCC-1837944.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20201215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://www.mouser.vn/ProductDetail/Samsung-Electro-Mechanics/CL10A475MQ8NNNC/?qs=X6jEic%2FHinBqyUv6Rpt3UA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10A475MQ8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "475 / 6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(FB0805-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C67451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1811061723_FH-Guangdong-Fenghua-Advanced-Tech-CBW201209U301T_C67451.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/68546.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811061723_FH-Guangdong-Fenghua-Advanced-Tech-CBW201209U301T_C67451.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20211109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/68546.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CBW201209U301T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "300 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "R-12K4-0603-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603FR-0712K4L/?qs=%2fha2pyFaduhXXNW8qwNUNtQbIe9NkWgBBZ6AkwbdyUcbVAv%2f5NVMmA%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "ChienNQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20150818"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603FR-0712K4L/?qs=%2fha2pyFaduhXXNW8qwNUNtQbIe9NkWgBBZ6AkwbdyUcbVAv%2f5NVMmA%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0603FR-0712K4L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12K4"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "R-330R-0603-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603JR-07330RL/?qs=sGAEpiMZZMu61qfTUdNhG0fejjHH2KXS1w8pBW1iJYA%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "SmartDevice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20150818"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603JR-07330RL/?qs=sGAEpiMZZMu61qfTUdNhG0fejjHH2KXS1w8pBW1iJYA%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0603JR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R/5%"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R0603-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "R-330R-0603-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603JR-07330RL/?qs=sGAEpiMZZMu61qfTUdNhG0fejjHH2KXS1w8pBW1iJYA%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "SmartDevice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.mouser.com/ds/2/447/RC0603-272842.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20150818"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "http://vn.mouser.com/ProductDetail/Yageo/RC0603JR-07330RL/?qs=sGAEpiMZZMu61qfTUdNhG0fejjHH2KXS1w8pBW1iJYA%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0603JR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R/5%"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R0603-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "R-2M-0603-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-072ML/311-2.0MGRCT-ND/729674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "NamNHc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20170605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-072ML/311-2.0MGRCT-ND/729674"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0603JR-072ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2M/5%"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R0603-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C95177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1809281528_YAGEO-RC0603JR-070RL_C95177.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/96378.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809281528_YAGEO-RC0603JR-070RL_C95177.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20160716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/96378.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW0.5 NO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "New part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "NamNH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20201009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Wething"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "PCB Switch NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW0.5 NO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "New part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "NamNH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20201009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Wething"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "PCB Switch NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SW0.5 NO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "New part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "NamNH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20201009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Wething"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "PCB Switch NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+3V3 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=+3V3 Pin=CN2-9
+Added Pin To Net: NetName=+3V3 Pin=CN2-12
+Added Pin To Net: NetName=+3V3 Pin=FB1-1
+Added Pin To Net: NetName=GND Pin=FB1-2
+Added Pin To Net: NetName=+3V3 Pin=R18-1
+Added Pin To Net: NetName=+3V3 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=SW5-2
+Added Pin To Net: NetName=TPOUT- Pin=U3-1
+Added Pin To Net: NetName=TPOUT+ Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=TPIN- Pin=U3-5
+Added Pin To Net: NetName=TPIN+ Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-14
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-16
+Added Pin To Net: NetName=GND Pin=U3-17
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-29
+Added Pin To Net: NetName=GND Pin=U3-48
+Change Net Name : Old Net Name=GND New Net Name=+3V3A
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC19_2
+Added Pin To Net: NetName=ACTLED Pin=R26-1
+Added Pin To Net: NetName=ACTLED Pin=U3-27
+Added Net: Name=ACTLED
+Added Pin To Net: NetName=LINKLED Pin=R27-1
+Added Pin To Net: NetName=LINKLED Pin=U3-25
+Added Net: Name=LINKLED
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=U3-20
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R29-1
+Added Pin To Net: NetName=NetC30_2 Pin=XT1-1
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetCN2_10 Pin=CN2-10
+Added Pin To Net: NetName=NetCN2_10 Pin=R26-2
+Added Net: Name=NetCN2_10
+Added Pin To Net: NetName=NetCN2_11 Pin=CN2-11
+Added Pin To Net: NetName=NetCN2_11 Pin=R27-2
+Added Net: Name=NetCN2_11
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=SW3-1
+Added Pin To Net: NetName=NetR18_2 Pin=U3-45
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=SW4-1
+Added Pin To Net: NetName=NetR19_2 Pin=U3-44
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=SW5-1
+Added Pin To Net: NetName=NetR21_2 Pin=U3-43
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U3-12
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetU3_33 Pin=U3-33
+Added Net: Name=NetU3_33
+Added Pin To Net: NetName=NetU3_36 Pin=U3-36
+Added Net: Name=NetU3_36
+Added Pin To Net: NetName=RSTn Pin=U3-37
+Added Net: Name=RSTn
+Added Pin To Net: NetName=SPI2_CS0 Pin=U2-23
+Added Pin To Net: NetName=SPI2_CS0 Pin=U3-32
+Added Net: Name=SPI2_CS0
+Added Pin To Net: NetName=SPI2_MISO Pin=U2-14
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-34
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_MOSI Pin=U2-16
+Added Pin To Net: NetName=SPI2_MOSI Pin=U3-35
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_SCLK Pin=U2-13
+Added Net: Name=SPI2_SCLK
+Added Pin To Net: NetName=XI Pin=C31-2
+Added Pin To Net: NetName=XI Pin=R28-1
+Added Pin To Net: NetName=XI Pin=U3-30
+Added Pin To Net: NetName=XI Pin=XT1-2
+Added Net: Name=XI
+Added Pin To Net: NetName=XO Pin=R28-2
+Added Pin To Net: NetName=XO Pin=R29-2
+Added Pin To Net: NetName=XO Pin=U3-31
+Added Net: Name=XO
+Added Member To Class: ClassName=U_Ethernet Member=Component C23 104/50V
+Added Member To Class: ClassName=U_Ethernet Member=Component C24 104/50V
+Added Member To Class: ClassName=U_Ethernet Member=Component C25 104/50V
+Added Member To Class: ClassName=U_Ethernet Member=Component C26 104/50V
+Added Member To Class: ClassName=U_Ethernet Member=Component C27 104/50V
+Added Member To Class: ClassName=U_Ethernet Member=Component C28 10uF/16V
+Added Member To Class: ClassName=U_Ethernet Member=Component C29 475 / 6.3V
+Added Member To Class: ClassName=U_Ethernet Member=Component C30 18pF
+Added Member To Class: ClassName=U_Ethernet Member=Component C31 18pF
+Added Member To Class: ClassName=U_Ethernet Member=Component FB1 120R
+Added Member To Class: ClassName=U_Ethernet Member=Component R27 330R/5%
+Added Member To Class: ClassName=U_Ethernet Member=Component R28 1M
+Added Member To Class: ClassName=U_Ethernet Member=Component R29 0R
+Added Member To Class: ClassName=U_Ethernet Member=Component SW3 Switch NO
+Added Member To Class: ClassName=U_Ethernet Member=Component SW4 Switch NO
+Added Member To Class: ClassName=U_Ethernet Member=Component SW5 Switch NO
+Added Member To Class: ClassName=Low voltage Member=Wire +3V3A

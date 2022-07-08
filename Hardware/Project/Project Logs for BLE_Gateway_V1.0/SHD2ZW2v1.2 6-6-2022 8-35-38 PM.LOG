@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Component: Designator=U5(SOIC-8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SPI3_CS0 Pin=U5-1
+Added Pin To Net: NetName=SPI3_MISO Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=+3V3 Pin=U5-5
+Added Pin To Net: NetName=SPI3_SCLK Pin=U5-7
+Added Pin To Net: NetName=SPI3_MOSI Pin=U5-8
+Added Pin To Net: NetName=NetU5_3 Pin=U5-3
+Added Net: Name=NetU5_3
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Net: Name=NetU5_6
+Added Class: Name=U_External Flash

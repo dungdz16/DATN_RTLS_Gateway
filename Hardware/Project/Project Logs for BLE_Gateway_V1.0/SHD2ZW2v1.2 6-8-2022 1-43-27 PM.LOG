@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=C31 NewDesignator=C32
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Added Component: Designator=C31(C0603-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BSH Partnumber"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link sale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Digo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = "20210219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "LCSC Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "https://item.szlcsc.com/20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3A Pin=C31-1
+Change Net Name : Old Net Name=NetC31_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC32_2 New Net Name=NetC33_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=U3-22
+Added Net: Name=NetC31_2
+Added Member To Class: ClassName=U_Ethernet Member=Component C34 18pF

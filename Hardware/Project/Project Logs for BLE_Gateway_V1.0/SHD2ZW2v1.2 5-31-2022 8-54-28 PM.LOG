@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=LED2 Old Footprint=WS2812B-PCB New Footprint=WS2812B
+Change Component Footprint: Designator=LED3 Old Footprint=WS2812B-PCB New Footprint=WS2812B
+Change Component Footprint: Designator=LED4 Old Footprint=WS2812B-PCB New Footprint=WS2812B
+Change Component Comment : Designator=LED2 Old Comment=WS2812B New Comment=RGB 4 Pin WS2812B
+Change Component Comment : Designator=LED3 Old Comment=WS2812B New Comment=RGB 4 Pin WS2812B
+Change Component Comment : Designator=LED4 Old Comment=WS2812B New Comment=RGB 4 Pin WS2812B
+Change component parameters: Designator = "LED2"; Footprint = "WS2812B"; UniqueID = "\IPDWAKDO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "LED3"; Footprint = "WS2812B"; UniqueID = "\NKSAJNUF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "LED4"; Footprint = "WS2812B"; UniqueID = "\WGHDSDQK"
+Change component parameters. Clean all parameters for all variants

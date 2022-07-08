@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BUZZER Pin=R9-1
+Added Pin To Net: NetName=BUZZER Pin=U2-28
+Added Net: Name=BUZZER
