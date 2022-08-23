@@ -1,6 +1,9 @@
-# The following lines of boilerplate have to be in your project's
+# The following five lines of boilerplate have to be in your project's
 # CMakeLists in this exact order for cmake to work correctly
 cmake_minimum_required(VERSION 3.5)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(app-template)
+set(EXTRA_COMPONENT_DIRS "user/ports" "user/services" "user/platform")
+project(rtls_gateway)
+target_add_binary_data(rtls_gateway.elf "certs/private_key.pem" TEXT)
+target_add_binary_data(rtls_gateway.elf "certs/ca.pem" TEXT)

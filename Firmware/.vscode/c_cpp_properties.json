@@ -4,8 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:/idf/components/**"
-
+                "${env:IDF_DIR}/components/**"
             ],
             "defines": [
                 "_DEBUG",

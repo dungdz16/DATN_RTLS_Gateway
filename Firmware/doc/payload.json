@@ -1,0 +1,10 @@
+{
+  "ts":12345678,
+  "id":987654321,
+  "method":"extend_status"
+  "value":{
+    "firmware":101,
+    "hardware":100,
+    "rst_reason":1
+  }
+}
